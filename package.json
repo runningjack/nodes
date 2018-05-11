@@ -8,6 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite":"lite-server"
   },
+  "repository":{
+  "type":"github",
+  "url":"git+https://github.com/runningjack/nodes.git"
+  },
   "author": "Ahmed",
   "license": "ISC",
   "devDependencies": {
